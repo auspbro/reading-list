@@ -33,4 +33,4 @@
 
 ## 设计
 
-1. 简约至上，written by Gils Colborne，translated by 李松峰 秦绪文，2016年8月（borrowed from gdfan）
+1. [简约至上，written by Gils Colborne，translated by 李松峰 秦绪文，2016年8月（borrowed from gdfan）](https://github.com/BinaryArtists/reading-list/blob/master/book-reading/%E7%AE%80%E7%BA%A6%E8%87%B3%E4%B8%8A.md)
