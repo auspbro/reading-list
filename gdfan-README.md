@@ -30,6 +30,7 @@
 
 ## 社会与科学
 1 王阳明 心学  王阳明
+
 2 静坐修道与长生不老 南环瑾
 ## 技术
 1 高性能MYSQL(第三版) Baron Schwartz，Peter Zaitsev，Vadim Tkachenko
